@@ -4,7 +4,8 @@ public abstract class Shape {
     // Fields for x and y coordinates
     private int x;
     private int y;
-    protected String color = "red"; // $PUT_YOUR_CHOICE_OF_COLOR
+    protected String color = "blue";
+    
     // Constructor to initialize x and y
     public Shape(int x, int y) {
         this.x = x;
