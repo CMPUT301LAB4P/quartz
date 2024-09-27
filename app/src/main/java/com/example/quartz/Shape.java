@@ -5,7 +5,7 @@ public abstract class Shape {
     private int x;
     private int y;
     protected String color = "red";
-    
+
     // Constructor to initialize x and y
     public Shape(int x, int y) {
         this.x = x;
