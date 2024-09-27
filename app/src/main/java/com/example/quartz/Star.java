@@ -18,5 +18,6 @@ public class Star extends Shape {
     // Setter for the side length
     public void setSideLength(double sideLength) {
         this.sideLength = sideLength;
+
     }
 }
