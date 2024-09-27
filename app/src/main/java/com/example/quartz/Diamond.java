@@ -5,6 +5,7 @@ public class Diamond extends Shape{
     private double sideLength; //initialize a double for side length of shape
 
 
+
     public Diamond(int x, int y, double sideLength){
         super(x,y); // parent class constructor 
         this.sideLength = sideLength;
